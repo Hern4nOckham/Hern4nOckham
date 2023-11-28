@@ -1,14 +1,13 @@
 #  **<p align="center">Hola, mi nombre es Hernán Pizarro.</p>** 
 
-<img src="Imagen\1.jpg" width="1010" height="400">
+<img src="Imagen\1.jpg" width="1010" height="350">
 
-## <p align="center">Data scientist | Agricultural engineer | Python | SQL | Power BI</p>
+## <p align="center">Data scientist | Agricultural engineer | Python | SQL | Power BI | Machine learning</p>
 
 💬 Soy Hernán, un científico de datos e ingeniero agrónomo en busca de mi primer trabajo en el área de biotech o agtech. Me apasiona el análisis de datos y estoy emocionado de aplicar mis habilidades en el campo de la biotecnología y la agricultura. 
 
 🌱Como ingeniero agrónomo, tengo experiencia en manejo integrado de plagas urbanas y agrícolas, toma de muestras, bioinsumos, prácticas en laboratorios, Buenas Prácticas Agropecuarias, imágenes satelitales, análisis de campañas agrícolas, servicio de atención al cliente y trabajo en grupos. 
 
-⚡Estoy ansioso por aprender y crecer en esta industria emocionante.
 
 ## *Tecnologías que uso*
 
@@ -26,6 +25,7 @@ Data science: modelos de machine learning.
 - **Hernán Pizarro**
 - Mail: hern4npizarro@gmail.com
 - Linkedin: [www.linkedin.com/in/hernán-pizarro-683679268](www.linkedin.com/in/hernán-pizarro-683679268)
+- Twitter: [https://twitter.com/Hernn00000](https://twitter.com/Hernn00000)
 
 
 
