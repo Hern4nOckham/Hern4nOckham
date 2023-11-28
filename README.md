@@ -35,26 +35,3 @@ Data science: modelos de machine learning.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hern4nOckham&layout=compact&langs_count=8&theme=algolia"/>
 
 
-<!--
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Hern4nOckham">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hern4nOckham&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hern4nOckham&layout=compact&langs_count=8&theme=algolia"/>
-
-
-**Hern4nOckham/Hern4nOckham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
