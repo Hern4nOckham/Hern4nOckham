@@ -1,5 +1,3 @@
-#  **<p align="center">Hola, mi nombre es Hernán Pizarro.</p>** 
-
 <img src="Imagen\1.jpg" width="1010" height="350">
 
 ## <p align="center">Data scientist | Agricultural engineer | Python | SQL | Power BI | Machine learning</p>
