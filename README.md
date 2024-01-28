@@ -20,10 +20,7 @@ Data science: modelos de machine learning.
 
 ## *Contacto*
 
-- **Hernán Pizarro**
-- Mail: hern4npizarro@gmail.com
-- Linkedin: [www.linkedin.com/in/hernán-pizarro-683679268](www.linkedin.com/in/hernán-pizarro-683679268)
-- Twitter: [https://twitter.com/Hernn00000](https://twitter.com/Hernn00000)
+- **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) | [X](https://twitter.com/Hernn00000).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
