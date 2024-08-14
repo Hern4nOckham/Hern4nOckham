@@ -22,11 +22,4 @@ Data science: modelos de machine learning.
 
 - **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/) | [X](https://twitter.com/Hernn00000).
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Hern4nOckham">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hern4nOckham&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hern4nOckham&layout=compact&langs_count=8&theme=algolia"/>
-
 
