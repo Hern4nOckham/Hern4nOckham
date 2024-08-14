@@ -1,8 +1,8 @@
 <img src="Imagen\1.jpg" width="1010" height="350">
 
-## <p align="center">Data scientist | Agricultural engineer | Python | SQL | Power BI | Machine learning</p>
+## <p align="center">Data scientist | Agricultural engineer | Python | SQL | Power BI | Machine learning | QGIS</p>
 
-💬 Soy Hernán, un científico de datos e ingeniero agrónomo en busca de mi primer trabajo en el área de biotech o agtech. Me apasiona el análisis de datos y estoy emocionado de aplicar mis habilidades en el campo de la biotecnología y la agricultura. 
+💬 Soy Hernán, un científico de datos e ingeniero agrónomo en busca de mi primer trabajo en IT. 
 
 🌱Como ingeniero agrónomo, tengo experiencia en manejo integrado de plagas urbanas y agrícolas, toma de muestras, bioinsumos, prácticas en laboratorios, Buenas Prácticas Agropecuarias, imágenes satelitales, análisis de campañas agrícolas, servicio de atención al cliente y trabajo en grupos. 
 
