@@ -10,7 +10,7 @@
 
 - Lenguajes de Programación: Python, SQL, DAX, Power query.
 - Herramientas: Power BI, Visual Studio Code, Excel, QGIS.
-- Otros: Machine Learning, Scikit Learn, Data Visualization, ETL Processes.
+- Otros: Machine Learning, Scikit Learn, Random Forest, Data Visualization, ETL Processes.
 
 ## *Contacto*
 
