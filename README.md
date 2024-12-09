@@ -2,7 +2,7 @@
 
 ## <p align="center">Data scientist | Agricultural engineer | Python | SQL | Power BI | Machine learning | QGIS</p>
 
-💬 Soy Hernán, Ingeniero Agrónomo con más de 10 años de experiencia, especializado en análisis de datos de campañas agrícolas. Aunque soy nuevo en ciencia de datos, he adquirido habilidades en Python, SQL y Power BI, y estoy enfocado en aplicar mi experiencia agrícola a roles en análisis y ciencia de datos.
+💬 Soy Hernán, Ingeniero Agrónomo, especializado en análisis de datos de campañas agrícolas. Aunque soy nuevo en ciencia de datos, he adquirido habilidades en Python, SQL y Power BI, y estoy enfocado en aplicar mi experiencia agrícola a roles en análisis y ciencia de datos.
  
 
 
